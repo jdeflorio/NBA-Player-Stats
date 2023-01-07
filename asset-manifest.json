@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NBA-Player-Stats/static/css/main.b7302461.css",
+    "main.js": "/NBA-Player-Stats/static/js/main.20a738ff.js",
+    "index.html": "/NBA-Player-Stats/index.html",
+    "main.b7302461.css.map": "/NBA-Player-Stats/static/css/main.b7302461.css.map",
+    "main.20a738ff.js.map": "/NBA-Player-Stats/static/js/main.20a738ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7302461.css",
+    "static/js/main.20a738ff.js"
+  ]
+}
